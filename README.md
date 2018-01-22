@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi everyone,
+joe here, I,m a beginner in machine-learning.
